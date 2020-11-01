@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/tyler-smith/assert"
-	"github.com/tyler-smith/go-bip39/wordlists"
+	"github.com/bvk/go-bip39/wordlists"
 )
 
 type vector struct {
