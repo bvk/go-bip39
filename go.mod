@@ -1,4 +1,4 @@
-module github.com/bvk/go-bip39
+module github.com/bvk/go-bip39/v2
 
 go 1.11
 
